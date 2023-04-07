@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29835889856",
+    "project_id": "test-search-algolia",
+    "storage_bucket": "test-search-algolia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29835889856:android:ae5b09a297ca029d1c7125",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_search_algolia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29835889856-impj6c49rvsvne83lmjck51fr1qlcu9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpszLWFJwkvaw5tPim_wZQ7O1DXadW0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29835889856-impj6c49rvsvne83lmjck51fr1qlcu9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
